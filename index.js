@@ -5,6 +5,4 @@ for (let i = 0; i < 10; i++) {
         jicaleta = "jicaleta";
     }
 }
-while(true){
-    console.log("vamos por unas malportadas y traumadas a bandidología?")
-}
+// como me maman las traumadas
